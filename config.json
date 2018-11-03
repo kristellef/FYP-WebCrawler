@@ -1,0 +1,9 @@
+{
+  "DB": {
+    "DB_USER": "macbook",
+    "DB_NAME": "fyp",
+    "DB_PWD": "",
+    "DB_HOST": "localhost",
+    "DB_PORT": "5432"
+  }
+}
